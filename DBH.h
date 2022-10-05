@@ -178,7 +178,10 @@ void calcu::hexaabina() {
         case 'c':cout << "1100"; break;
 
         case 'D':
-        case 'd':cout << "1110"; break;
+        case 'd':cout << "0100"; break;
+
+        case 'E':
+        case 'e':cout << "1110"; break;
 
         case 'F':
         case 'f':cout << "1111"; break;
